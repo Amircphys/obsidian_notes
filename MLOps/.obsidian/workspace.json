@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "603a0d20b24f2b8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e184d58cf283b35c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bf88bb82a88768c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_1 Docker_from_0_to_100.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4_1 Docker_from_0_to_100"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "609785222c743089",
+    "type": "split",
+    "children": [
+      {
+        "id": "7648a39ba93cb0c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aa9fd823af6ff53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d062fb048b871d3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e1c757a79ca7c511",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8ee2196d376971e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a502c84de3737c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59ca7ed2d2ccd28b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1. Introduction"
+            }
+          },
+          {
+            "id": "8fbd3ae102c3162d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Introduction"
+            }
+          },
+          {
+            "id": "cd32cf26a38fff65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "584c46123efb0e89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Introduction.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "1bf88bb82a88768c",
+  "lastOpenFiles": [
+    "Pasted image 20250307215903.png",
+    "Pasted image 20250307215832.png",
+    "Pasted image 20250307215428.png",
+    "Pasted image 20250307215422.png",
+    "Pasted image 20250307215145.png",
+    "4_Docker.md",
+    "4_1 Docker_from_0_to_100.md",
+    "Pasted image 20250223200939.png",
+    "Без названия",
+    "Pasted image 20250106221129.png",
+    "1_Introduction.md",
+    "2_Production_python_code.md",
+    "Pasted image 20250104115341.png",
+    "Pasted image 20250104114937.png",
+    "Pasted image 20250104112321.png",
+    "Pasted image 20250104112041.png",
+    "3_Reproducibility_in_ML.md",
+    "Untitled.canvas",
+    "lesson_2.canvas"
+  ]
+}
