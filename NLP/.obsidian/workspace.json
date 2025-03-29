@@ -36,6 +36,16 @@
             }
           },
           {
+            "id": "d54e2f2b1a241ce4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
             "id": "63677eca7879878d",
             "type": "leaf",
             "state": {
@@ -50,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,21 +202,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "21f28f4de8d9368b",
+  "active": "d54e2f2b1a241ce4",
   "lastOpenFiles": [
+    "RNN.md",
+    "Pasted image 20250320162927.png",
+    "Pasted image 20250320162921.png",
+    "Pasted image 20250320162505.png",
+    "Pasted image 20250320160053.png",
+    "Pasted image 20250320155838.png",
+    "RAG.md",
     "Pasted image 20250127122341.png",
     "Pasted image 20250127122307.png",
     "Pasted image 20250127122036.png",
     "Pasted image 20250127121951.png",
     "Pasted image 20250127121921.png",
-    "Pasted image 20250127121852.png",
-    "Pasted image 20250127121816.png",
-    "Pasted image 20250127121600.png",
-    "Pasted image 20250127120944.png",
-    "Pasted image 20250127120837.png",
-    "Pasted image 20250127120802.png",
     "Promts Intro.md",
-    "RAG.md",
     "test_markdonw.md",
     "Добро пожаловать.md"
   ]
