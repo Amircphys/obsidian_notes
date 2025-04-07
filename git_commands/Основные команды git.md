@@ -102,6 +102,10 @@ Commit early, commit often
 `git checkout <id commit> file_path `- возврат отдельного файла к прошлому состоянию 
 `git checkout HEAD file_path` - отменить все изменения в файле
 Если назание файла или директории совпадает с названием ветки или коммита и нам нужно откатить изменения для файла - `git checkout -- folder_name`
+```
+git push -d <remote_name> <branchname>   # Delete remote
+git branch -d <branchname>               # Delete local
+```
 
 **Просмотр истории и старых файлов:**
 
