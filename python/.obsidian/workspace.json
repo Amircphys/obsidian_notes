@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Context Manager and Files"
             }
-          },
-          {
-            "id": "7807ff2044845701",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collections, functools, Itertools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Collections, functools, Itertools"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +163,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7807ff2044845701",
+  "active": "49f8ce75fa59404b",
   "lastOpenFiles": [
-    "Lection_1.md",
+    "Classes.md",
     "Collections, functools, Itertools.md",
+    "Lection_1.md",
     "Tests.md",
     "Pasted image 20250408173430.png",
     "Pasted image 20250408173332.png",
@@ -192,7 +178,6 @@
     "Автоматизации входа данных.md",
     "Context Manager and Files.md",
     "Базовые принципы кодинга.md",
-    "Classes.md",
     "Pasted image 20250308120307.png"
   ]
 }
