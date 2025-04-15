@@ -164,6 +164,15 @@ git branch -d <branchname>               # Delete local
 `git clean -dxf` - удалит все не остлеживаемые файлы и директории, включая те которые попадают в gitignore
 
 
+#### Сделать из существующей директории репозиторий
+В директории:
+`1. git init`
+`2. git add <paths>`
+`3. git remote add "origin" https://github.com/Amircphys/llm`
+`4. git remote set-url "origin" https://github.com/Amircphys/llm`
+`5. git push -u origin master`
+
+
 
 
 

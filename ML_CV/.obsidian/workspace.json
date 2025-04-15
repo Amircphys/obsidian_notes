@@ -11,10 +11,14 @@
             "id": "0379c5c1e6474340",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Linear Models.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Linear Models"
             }
           }
         ]
@@ -161,7 +165,11 @@
   },
   "active": "0379c5c1e6474340",
   "lastOpenFiles": [
+    "Pasted image 20250415095653.png",
+    "Pasted image 20250415094655.png",
+    "Pasted image 20250415093747.png",
     "Обучение представлений.md",
+    "Linear Models.md",
     "Base.md",
     "Welcome.md",
     "Pasted image 20241102221008.png",
