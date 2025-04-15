@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Models.md",
+                "file": "Metrics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Models"
+              "title": "Metrics"
             }
           }
         ]
@@ -165,20 +165,22 @@
   },
   "active": "0379c5c1e6474340",
   "lastOpenFiles": [
+    "Pasted image 20250415183302.png",
+    "Pasted image 20250415181543.png",
+    "Pasted image 20250415180659.png",
+    "Pasted image 20250415175540.png",
+    "Pasted image 20250415174313.png",
+    "Linear Models.md",
+    "Metrics.md",
     "Pasted image 20250415095653.png",
     "Pasted image 20250415094655.png",
     "Pasted image 20250415093747.png",
     "Обучение представлений.md",
-    "Linear Models.md",
     "Base.md",
     "Welcome.md",
     "Pasted image 20241102221008.png",
     "Pasted image 20241103111459.png",
     "Pasted image 20241103110907.png",
-    "Pasted image 20241103105649.png",
-    "Pasted image 20241103110133.png",
-    "Pasted image 20241102221125.png",
-    "Pasted image 20241102221031.png",
     "5x5.md"
   ]
 }
