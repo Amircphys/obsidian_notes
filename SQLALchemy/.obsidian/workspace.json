@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "8105879403131394",
+    "id": "4f95fd2ade04c13c",
     "type": "split",
     "children": [
       {
-        "id": "1f83241d80f424f2",
+        "id": "e7dd0af50d489a67",
         "type": "tabs",
         "children": [
           {
-            "id": "d314cd2a7a4502f0",
+            "id": "a33cdfddb79dec07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IPC.md",
+                "file": "6. Select.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPC"
+              "title": "6. Select"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "71193f9a86ae580a",
+    "id": "ba0a30ba61f44a22",
     "type": "split",
     "children": [
       {
-        "id": "cb12b0695dd6ae39",
+        "id": "162d91b99b9f5a77",
         "type": "tabs",
         "children": [
           {
-            "id": "8b81617de1aa3834",
+            "id": "1a3d9359395507c4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "2b1c2d73dd3e9190",
+            "id": "42cde9957cff577f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,13 +65,13 @@
             }
           },
           {
-            "id": "10085fff953a2e40",
+            "id": "70cfe1fcfab49796",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           }
         ]
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "62f2ceb6a248690f",
+    "id": "2b089295adea9d1d",
     "type": "split",
     "children": [
       {
-        "id": "60cdb8bc258a7d39",
+        "id": "e00fcdf2eab4ff71",
         "type": "tabs",
         "children": [
           {
-            "id": "4f2a84a5c100138d",
+            "id": "3b486c86a82a31d0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "6. Select.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,46 +104,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Обратные ссылки для 6. Select"
             }
           },
           {
-            "id": "2f9a14f0f02cf311",
+            "id": "c18a21f87b9fff92",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "6. Select.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Исходящие ссылки из 6. Select"
             }
           },
           {
-            "id": "d74182c80a0910e7",
+            "id": "61e9aea5292b5d6b",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
-            "id": "86eb19edc735c44f",
+            "id": "2e668169d88cecb0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "6. Select.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Структура 6. Select"
             }
           }
         ]
@@ -163,27 +168,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8b81617de1aa3834",
+  "active": "a33cdfddb79dec07",
   "lastOpenFiles": [
-    "Потоки и Процессы.md",
-    "IPC.md",
-    "Логирование.md",
-    "Collections, functools, Itertools.md",
-    "Базовые принципы кодинга.md",
-    "Lection_1.md",
-    "воалыовжа.md",
-    "Pasted image 20250419211654.png",
-    "Pasted image 20250416180102.png",
-    "Context Manager and Files.md",
-    "Classes.md",
-    "Tests.md",
-    "Pasted image 20250408173430.png",
-    "Pasted image 20250408173332.png",
-    "Pasted image 20250408173256.png",
-    "Pasted image 20250408173221.png",
-    "Pasted image 20250408173137.png",
-    "Pasted image 20250408173101.png",
-    "Автоматизации входа данных.md",
-    "Pasted image 20250308120307.png"
+    "4. Работа с метаданными базы данных.md",
+    "3. Работа с транзакциями и DBAPI.md",
+    "2. Engine.md",
+    "1. Введение.md",
+    "6. Select.md",
+    "5. INSERT.md"
   ]
 }

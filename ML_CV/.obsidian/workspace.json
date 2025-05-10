@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metrics.md",
+                "file": "1.2 Метрики классификации и регрессии.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metrics"
+              "title": "1.2 Метрики классификации и регрессии"
+            }
+          },
+          {
+            "id": "4be6dc0511381867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.3 Кросс-валидация.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 Кросс-валидация"
+            }
+          },
+          {
+            "id": "9e6c9862324105a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.4 Метрические методы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4 Метрические методы"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,24 +192,26 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0379c5c1e6474340",
+  "active": "9e6c9862324105a9",
   "lastOpenFiles": [
-    "Pasted image 20250415183302.png",
-    "Pasted image 20250415181543.png",
-    "Pasted image 20250415180659.png",
-    "Pasted image 20250415175540.png",
-    "Pasted image 20250415174313.png",
-    "Linear Models.md",
-    "Metrics.md",
-    "Pasted image 20250415095653.png",
-    "Pasted image 20250415094655.png",
-    "Pasted image 20250415093747.png",
+    "Pasted image 20250510140125.png",
+    "Pasted image 20250510135958.png",
+    "Pasted image 20250510135741.png",
+    "Pasted image 20250510134330.png",
+    "1.3 Кросс-валидация.md",
+    "1.4 Метрические методы.md",
+    "1.2 Метрики классификации и регрессии.md",
+    "1.1 Линейные модели.md",
+    "Pasted image 20250510133443.png",
+    "Pasted image 20250510133000.png",
     "Обучение представлений.md",
+    "Pasted image 20250510122858.png",
+    "Pasted image 20250510122706.png",
+    "Pasted image 20250510122328.png",
+    "Pasted image 20250510121939.png",
+    "Pasted image 20250415183302.png",
     "Base.md",
     "Welcome.md",
-    "Pasted image 20241102221008.png",
-    "Pasted image 20241103111459.png",
-    "Pasted image 20241103110907.png",
     "5x5.md"
   ]
 }
