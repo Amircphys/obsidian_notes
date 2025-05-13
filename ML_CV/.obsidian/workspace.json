@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "99e816e7c3830abf",
+        "id": "2fd42fab2eaab000",
         "type": "tabs",
         "children": [
           {
-            "id": "0379c5c1e6474340",
+            "id": "6542ccd923c6b907",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.2 Метрики классификации и регрессии.md",
+                "file": "1.6 Ансамбли моделей.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Метрики классификации и регрессии"
-            }
-          },
-          {
-            "id": "4be6dc0511381867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.3 Кросс-валидация.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.3 Кросс-валидация"
-            }
-          },
-          {
-            "id": "9e6c9862324105a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.4 Метрические методы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.4 Метрические методы"
+              "title": "1.6 Ансамбли моделей"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -192,24 +163,26 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9e6c9862324105a9",
+  "active": "6542ccd923c6b907",
   "lastOpenFiles": [
+    "Pasted image 20250513120649.png",
+    "Pasted image 20250513114504.png",
+    "Pasted image 20250513113807.png",
+    "1.6 Ансамбли моделей.md",
+    "1.5 Решающие деревья.md",
+    "1.2 Метрики классификации и регрессии.md",
+    "1.3 Кросс-валидация.md",
+    "1.4 Метрические методы.md",
     "Pasted image 20250510140125.png",
     "Pasted image 20250510135958.png",
     "Pasted image 20250510135741.png",
     "Pasted image 20250510134330.png",
-    "1.3 Кросс-валидация.md",
-    "1.4 Метрические методы.md",
-    "1.2 Метрики классификации и регрессии.md",
     "1.1 Линейные модели.md",
     "Pasted image 20250510133443.png",
     "Pasted image 20250510133000.png",
     "Обучение представлений.md",
     "Pasted image 20250510122858.png",
     "Pasted image 20250510122706.png",
-    "Pasted image 20250510122328.png",
-    "Pasted image 20250510121939.png",
-    "Pasted image 20250415183302.png",
     "Base.md",
     "Welcome.md",
     "5x5.md"
