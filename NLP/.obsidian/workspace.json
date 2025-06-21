@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM_USING.md",
+                "file": "LangChain promting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM_USING"
+              "title": "LangChain promting"
             }
           },
           {
@@ -222,11 +222,12 @@
   },
   "active": "ca552756d5f44acb",
   "lastOpenFiles": [
-    "LLM.md",
     "LLM_USING.md",
+    "LangChain promting.md",
+    "test_markdonw.md",
+    "LLM.md",
     "LLM OpenAI.md",
     "Promts Intro.md",
-    "test_markdonw.md",
     "RNN.md",
     "Pasted image 20250320162927.png",
     "Pasted image 20250320162921.png",
