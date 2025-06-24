@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "1.8 Подбор гиперпараметров"
             }
+          },
+          {
+            "id": "aedf4defae9a441d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.1 Тонкости обучения - инициализация и оптимизация.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1 Тонкости обучения - инициализация и оптимизация"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,10 +206,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "30ddfd0232b9bbc9",
+  "active": "aedf4defae9a441d",
   "lastOpenFiles": [
-    "1.7 Градиентный бустинг.md",
+    "Pasted image 20250624104907.png",
+    "Pasted image 20250624104733.png",
     "1.8 Подбор гиперпараметров.md",
+    "2.1 Тонкости обучения - инициализация и оптимизация.md",
+    "1.7 Градиентный бустинг.md",
     "Pasted image 20250515123116.png",
     "Pasted image 20250514125002.png",
     "Pasted image 20250514112312.png",
@@ -210,7 +227,6 @@
     "1.4 Метрические методы.md",
     "Pasted image 20250510140125.png",
     "Pasted image 20250510135958.png",
-    "Pasted image 20250510135741.png",
     "1.1 Линейные модели.md",
     "Обучение представлений.md",
     "Base.md",
