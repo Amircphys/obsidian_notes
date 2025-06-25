@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "69a9f5abe048ac84",
+        "id": "a86e4c7540d59fde",
         "type": "tabs",
         "children": [
           {
-            "id": "4e856a4f333d7948",
+            "id": "230729de1b902ad1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Promts Intro.md",
+                "file": "Агенты в LangChain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Promts Intro"
-            }
-          },
-          {
-            "id": "21f28f4de8d9368b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RAG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RAG"
-            }
-          },
-          {
-            "id": "d54e2f2b1a241ce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLM"
-            }
-          },
-          {
-            "id": "ca552756d5f44acb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LangChain promting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LangChain promting"
-            }
-          },
-          {
-            "id": "63677eca7879878d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test_markdonw.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "test_markdonw"
+              "title": "Агенты в LangChain"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,21 +163,22 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ca552756d5f44acb",
+  "active": "230729de1b902ad1",
   "lastOpenFiles": [
-    "LLM_USING.md",
-    "LangChain promting.md",
-    "test_markdonw.md",
-    "LLM.md",
-    "LLM OpenAI.md",
+    "Агенты в LangChain.md",
     "Promts Intro.md",
+    "RAG.md",
+    "LLM.md",
+    "LangChain promting.md",
+    "LLM_USING.md",
+    "test_markdonw.md",
+    "LLM OpenAI.md",
     "RNN.md",
     "Pasted image 20250320162927.png",
     "Pasted image 20250320162921.png",
     "Pasted image 20250320162505.png",
     "Pasted image 20250320160053.png",
     "Pasted image 20250320155838.png",
-    "RAG.md",
     "Pasted image 20250127122341.png",
     "Pasted image 20250127122307.png",
     "Pasted image 20250127122036.png",
