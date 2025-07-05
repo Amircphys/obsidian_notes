@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2fd42fab2eaab000",
+        "id": "696157dc09c870ae",
         "type": "tabs",
         "children": [
           {
-            "id": "6542ccd923c6b907",
+            "id": "d83e1fc9ab0847ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.6 Ансамбли моделей.md",
+                "file": "2.3 Нейросети для работы с последовательностями.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.6 Ансамбли моделей"
-            }
-          },
-          {
-            "id": "9c02f918370fb117",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.7 Градиентный бустинг.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.7 Градиентный бустинг"
-            }
-          },
-          {
-            "id": "30ddfd0232b9bbc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.8 Подбор гиперпараметров.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.8 Подбор гиперпараметров"
-            }
-          },
-          {
-            "id": "aedf4defae9a441d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.1 Тонкости обучения - инициализация и оптимизация.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.1 Тонкости обучения - инициализация и оптимизация"
+              "title": "2.3 Нейросети для работы с последовательностями"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,23 +163,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "aedf4defae9a441d",
+  "active": "d83e1fc9ab0847ab",
   "lastOpenFiles": [
+    "2.1 Тонкости обучения - инициализация и оптимизация.md",
+    "2.3 Нейросети для работы с последовательностями.md",
+    "Pasted image 20250701092558.png",
+    "Pasted image 20250701092405.png",
+    "Pasted image 20250701091527.png",
+    "Pasted image 20250701091428.png",
+    "Pasted image 20250701091200.png",
+    "1.6 Ансамбли моделей.md",
+    "1.7 Градиентный бустинг.md",
+    "1.8 Подбор гиперпараметров.md",
+    "2.2 Свёрточные нейросети.md",
     "Pasted image 20250625152802.png",
     "Pasted image 20250625152738.png",
     "Pasted image 20250625152007.png",
     "Pasted image 20250625151754.png",
     "Pasted image 20250625151505.png",
-    "Pasted image 20250625151400.png",
-    "Pasted image 20250625095811.png",
-    "Pasted image 20250625094536.png",
-    "Pasted image 20250625093106.png",
-    "Pasted image 20250625093043.png",
-    "Pasted image 20250625093037.png",
-    "1.8 Подбор гиперпараметров.md",
-    "2.1 Тонкости обучения - инициализация и оптимизация.md",
-    "1.7 Градиентный бустинг.md",
-    "1.6 Ансамбли моделей.md",
     "1.5 Решающие деревья.md",
     "1.2 Метрики классификации и регрессии.md",
     "1.3 Кросс-валидация.md",
