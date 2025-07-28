@@ -35,8 +35,7 @@
               "title": "Lection 3 ML models"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,11 +179,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ae4154b41123ae27",
+  "active": "db9cf983af0b77fd",
   "lastOpenFiles": [
+    "Lection 3 ML models.md",
     "Pasted image 20250712135220.png",
     "Lection 2 - data.md",
-    "Lection 3 ML models.md",
     "Lection 2.md",
     "Добро пожаловать.md"
   ]
