@@ -11,10 +11,14 @@
             "id": "db1a1e9e959121dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ClearML.md.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "ClearML.md"
             }
           }
         ]
@@ -161,6 +165,8 @@
   },
   "active": "db1a1e9e959121dc",
   "lastOpenFiles": [
+    "Pasted image 20241022150311.png",
+    "ClearML.md.md",
     "3_Reproducibility_in_ML.md",
     "4_1 Docker_from_0_to_100.md",
     "4_Docker.md",
