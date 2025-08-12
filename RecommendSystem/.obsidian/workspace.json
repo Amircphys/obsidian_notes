@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "603a0d20b24f2b8e",
+    "id": "ff3f1210ec6135ab",
     "type": "split",
     "children": [
       {
-        "id": "2218ae5ed91e8122",
+        "id": "21fe222856f50eb6",
         "type": "tabs",
         "children": [
           {
-            "id": "db1a1e9e959121dc",
+            "id": "190c1bd95c584a9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clearml.md",
+                "file": "MADE_lecture_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "clearml"
+              "title": "MADE_lecture_1"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "609785222c743089",
+    "id": "8ea5d866944797ce",
     "type": "split",
     "children": [
       {
-        "id": "7648a39ba93cb0c2",
+        "id": "68aba34d75e2761f",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa9fd823af6ff53",
+            "id": "be531438256db81a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "d062fb048b871d3f",
+            "id": "39b9fe78a83878a7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,40 +61,40 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
-            "id": "e1c757a79ca7c511",
+            "id": "19fd018c8ad70fb8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "8ee2196d376971e5",
+    "id": "14ee6bf99f2219c6",
     "type": "split",
     "children": [
       {
-        "id": "1a502c84de3737c4",
+        "id": "b13b9ed89fc72185",
         "type": "tabs",
         "children": [
           {
-            "id": "59ca7ed2d2ccd28b",
+            "id": "0993ddead4d18829",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Introduction.md",
+                "file": "MADE_lecture_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,46 +104,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Introduction"
+              "title": "Обратные ссылки для MADE_lecture_1"
             }
           },
           {
-            "id": "8fbd3ae102c3162d",
+            "id": "fb5406ec8b0f10fa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Introduction.md",
+                "file": "MADE_lecture_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Introduction"
+              "title": "Исходящие ссылки из MADE_lecture_1"
             }
           },
           {
-            "id": "cd32cf26a38fff65",
+            "id": "3c0d4567132571d7",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
-            "id": "584c46123efb0e89",
+            "id": "92496bfbd9bb3cea",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Introduction.md"
+                "file": "MADE_lecture_1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Introduction"
+              "title": "Структура MADE_lecture_1"
             }
           }
         ]
@@ -163,28 +168,20 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "db1a1e9e959121dc",
+  "active": "190c1bd95c584a9a",
   "lastOpenFiles": [
-    "Pasted image 20241022150311.png",
-    "clearml.md",
-    "ClearML.md",
-    "ClearML_1.md",
-    "3_Reproducibility_in_ML.md",
-    "4_1 Docker_from_0_to_100.md",
-    "4_Docker.md",
-    "Pasted image 20250307215903.png",
-    "Pasted image 20250307215832.png",
-    "Pasted image 20250307215428.png",
-    "Pasted image 20250307215422.png",
-    "Pasted image 20250307215145.png",
-    "Pasted image 20250223200939.png",
-    "Без названия",
-    "Pasted image 20250106221129.png",
-    "1_Introduction.md",
-    "2_Production_python_code.md",
-    "Pasted image 20250104115341.png",
-    "Pasted image 20250104114937.png",
-    "Untitled.canvas",
-    "lesson_2.canvas"
+    "Pasted image 20250812141239.png",
+    "Pasted image 20250812141153.png",
+    "Pasted image 20250812140811.png",
+    "Pasted image 20250812140748.png",
+    "Pasted image 20250812140556.png",
+    "Pasted image 20250812140246.png",
+    "Pasted image 20250812140129.png",
+    "Pasted image 20250812140005.png",
+    "MADE_lecture_1.md",
+    "Pasted image 20250812135822.png",
+    "Pasted image 20250812135743.png",
+    "Pasted image 20250812135520.png",
+    "Добро пожаловать.md"
   ]
 }
