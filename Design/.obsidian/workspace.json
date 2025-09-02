@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lection 2 - data.md",
+                "file": "Выдержки из книги.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lection 2 - data"
+              "title": "Выдержки из книги"
             }
           },
           {
@@ -171,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -182,8 +183,9 @@
   "active": "db9cf983af0b77fd",
   "lastOpenFiles": [
     "Lection 3 ML models.md",
-    "Pasted image 20250712135220.png",
+    "Выдержки из книги.md",
     "Lection 2 - data.md",
+    "Pasted image 20250712135220.png",
     "Lection 2.md",
     "Добро пожаловать.md"
   ]

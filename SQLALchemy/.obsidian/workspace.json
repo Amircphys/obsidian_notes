@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.4 Вложенные запросы.md",
+                "file": "1. Введение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 Вложенные запросы"
+              "title": "1. Введение"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -168,19 +169,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1a3d9359395507c4",
+  "active": "f8fe15123cb8f5d1",
   "lastOpenFiles": [
+    "1.1 CREATE AND INSERT.md",
     "1.2 Select.md",
+    "6. Select.md",
+    "5. INSERT.md",
+    "3. Работа с транзакциями и DBAPI.md",
     "1.4 Вложенные запросы.md",
     "1.3  Запросы, групповые операции.md",
     "Pasted image 20250626164116.png",
     "Pasted image 20250626164101.png",
-    "1.1 CREATE AND INSERT.md",
     "2. Engine.md",
-    "6. Select.md",
     "4. Работа с метаданными базы данных.md",
-    "3. Работа с транзакциями и DBAPI.md",
-    "1. Введение.md",
-    "5. INSERT.md"
+    "1. Введение.md"
   ]
 }
