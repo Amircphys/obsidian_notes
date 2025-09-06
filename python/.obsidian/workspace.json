@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Асинхронный код.md",
+                "file": "ООП.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Асинхронный код"
+              "title": "ООП"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "62f2ceb6a248690f",
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -165,8 +166,9 @@
   },
   "active": "f270b457bc6d9d39",
   "lastOpenFiles": [
-    "Потоки и Процессы.md",
     "Асинхронный код.md",
+    "ООП.md",
+    "Потоки и Процессы.md",
     "Устройство памяти.md",
     "C-extensions.md",
     "IPC.md",
